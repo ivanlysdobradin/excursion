@@ -32,7 +32,6 @@ p{
   color: gray;
   text-align: right;
 }
-centered {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
+a {
+    text-decoration: none;
+}
